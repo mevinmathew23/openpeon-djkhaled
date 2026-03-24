@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Source audio files (not shipped with pack)
+source_audio.*
+
+# Whisper transcription outputs
+source_audio.json
+source_audio.txt
+source_audio.srt
+source_audio.tsv
+source_audio.vtt
+
+# Poetry lock (tooling only, not a library)
+poetry.lock
+
+# OS files
+.DS_Store
