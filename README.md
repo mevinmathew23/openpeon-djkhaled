@@ -6,13 +6,13 @@ A [peon-ping](https://github.com/PeonPing/peon-ping) voice pack featuring DJ Kha
 
 ## Categories
 
-| Category | Clips |
-|---|---|
-| `session.start` | "Another one!", "We the best!", "DJ Khaled!", "Let's go!", "All I do is win!", "We da best music!", "Lion!" |
-| `task.complete` | "Major key alert!", "They don't want us to win", "Bless up", "God did" |
-| `task.error` | "Congratulations, you played yourself", "Stop playing with me, man!" |
-| `input.required` | "Yo let me know Mo!" |
-| `user.spam` | "Stop playing with me, man!" |
+| Category | # | Clips |
+|---|---|---|
+| `session.start` | 7 | "Another one!", "We the best!", "DJ Khaled!", "Let's go!", "All I do is win!", "We da best music!", "Lion!" |
+| `task.complete` | 4 | "Major key alert!", "They don't want us to win", "Bless up", "God did" |
+| `task.error` | 3 | "Congratulations, you played yourself", "Stop playing with me, man!", "This is called what?" |
+| `input.required` | 3 | "Another one!", "Yo let me know Mo!", "And what is this?" |
+| `user.spam` | 1 | "Stop playing with me, man!" |
 
 ## Install
 
