@@ -1,17 +1,18 @@
 # DJ Khaled Voice Pack
 
+![DJ Khaled Another One](https://media.tenor.com/images/26286143/mp4)
+
 A [peon-ping](https://github.com/PeonPing/peon-ping) voice pack featuring DJ Khaled's iconic catchphrases as coding notification sounds.
 
 ## Categories
 
 | Category | Clips |
 |---|---|
-| `session.start` | "Another one!", "We the best!", "DJ Khaled!", "Let's go!", "All I do is win" |
+| `session.start` | "Another one!", "We the best!", "DJ Khaled!", "Let's go!", "All I do is win!", "We da best music!", "Lion!" |
 | `task.complete` | "Major key alert!", "They don't want us to win", "Bless up", "God did" |
-| `task.error` | "You played yourself", "Congratulations, you played yourself" |
-| `input.required` | "The key is..." |
-| `user.spam` | "You smart, you loyal", "Stop playing" |
-| `resource.limit` | "Suffering from success" |
+| `task.error` | "Congratulations, you played yourself", "Stop playing with me, man!" |
+| `input.required` | "Yo let me know Mo!" |
+| `user.spam` | "Stop playing with me, man!" |
 
 ## Install
 

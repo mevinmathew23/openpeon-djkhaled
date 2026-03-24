@@ -30,12 +30,15 @@
     "task.error": {
       "sounds": [
         { "file": "sounds/CongratulationsYouPlayedYourself.mp3", "label": "Congratulations, you played yourself" },
-        { "file": "sounds/StopPlaying.mp3", "label": "Stop playing with me, man!" }
+        { "file": "sounds/StopPlaying.mp3", "label": "Stop playing with me, man!" },
+        { "file": "sounds/ThisIsCalledWhat.mp3", "label": "This is called what?" }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/LetMeKnowMo.mp3", "label": "Yo let me know Mo!" }
+        { "file": "sounds/AnotherOne.mp3", "label": "Another one!" },
+        { "file": "sounds/LetMeKnowMo.mp3", "label": "Yo let me know Mo!" },
+        { "file": "sounds/AndWhatIsThis.mp3", "label": "And what is this?" }
       ]
     },
     "user.spam": {
