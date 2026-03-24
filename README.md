@@ -1,6 +1,6 @@
 # DJ Khaled Voice Pack
 
-![DJ Khaled Another One](https://media.tenor.com/images/26286143/mp4)
+![DJ Khaled Another One](https://tenor.com/view/khaled-reacts-gif-26286143.gif)
 
 A [peon-ping](https://github.com/PeonPing/peon-ping) voice pack featuring DJ Khaled's iconic catchphrases as coding notification sounds.
 
