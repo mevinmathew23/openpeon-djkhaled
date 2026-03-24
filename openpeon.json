@@ -27,6 +27,14 @@
         { "file": "sounds/GodDid.mp3", "label": "God did" }
       ]
     },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/LetsGo.mp3", "label": "Let's go!" },
+        { "file": "sounds/AnotherOne.mp3", "label": "Another one!" },
+        { "file": "sounds/WeAintStopping.mp3", "label": "We ain't stopping" },
+        { "file": "sounds/WeGonnaKeepGoing.mp3", "label": "We gonna keep going" }
+      ]
+    },
     "task.error": {
       "sounds": [
         { "file": "sounds/CongratulationsYouPlayedYourself.mp3", "label": "Congratulations, you played yourself" },
@@ -44,6 +52,11 @@
     "user.spam": {
       "sounds": [
         { "file": "sounds/StopPlaying.mp3", "label": "Stop playing with me, man!" }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/Roadblocks.mp3", "label": "Life is roadblocks... don't let nothing stop you, we ain't stopping" }
       ]
     }
   }
