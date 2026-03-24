@@ -1,0 +1,47 @@
+{
+  "cesp_version": "1.0",
+  "name": "djkhaled",
+  "display_name": "DJ Khaled",
+  "version": "0.1.0",
+  "author": { "name": "Mevin Mathew", "github": "mevinmathew23" },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "icon": "icon.png",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/AnotherOne.mp3", "label": "Another one!" },
+        { "file": "sounds/WeTheBest.mp3", "label": "We the best!" },
+        { "file": "sounds/DjKhaled.mp3", "label": "DJ Khaled!" },
+        { "file": "sounds/LetsGo.mp3", "label": "Let's go!" },
+        { "file": "sounds/AllIDoIsWin.mp3", "label": "All I do is win!" },
+        { "file": "sounds/WeDaBestMusic.mp3", "label": "We da best music!" },
+        { "file": "sounds/Lion.mp3", "label": "Lion!" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/MajorKeyAlert.mp3", "label": "Major key alert!" },
+        { "file": "sounds/TheyDontWantUsToWin.mp3", "label": "They don't want us to win" },
+        { "file": "sounds/BlessUp.mp3", "label": "Bless up" },
+        { "file": "sounds/GodDid.mp3", "label": "God did" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/CongratulationsYouPlayedYourself.mp3", "label": "Congratulations, you played yourself" },
+        { "file": "sounds/StopPlaying.mp3", "label": "Stop playing with me, man!" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/LetMeKnowMo.mp3", "label": "Yo let me know Mo!" }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/StopPlaying.mp3", "label": "Stop playing with me, man!" }
+      ]
+    }
+  }
+}
